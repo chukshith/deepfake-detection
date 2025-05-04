@@ -20,7 +20,7 @@ st.markdown("""
         }
 
         .stApp {
-            background-color: rgba(0, 0, 0, 0.6);
+            background-color: #FFFFFF;
             padding: 2rem;
             border-radius: 12px;
         }
@@ -58,7 +58,7 @@ st.markdown("""
         }
 
         .stProgress > div > div > div > div {
-            background-color: #00ffcc;
+            background-color: #FFFFFF;
         }
 
         .css-1v0mbdj, .stMarkdown {
