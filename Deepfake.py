@@ -27,7 +27,7 @@ st.markdown("""
 
         h1 {
             font-family: 'Orbitron', sans-serif;
-            color: #FFFFFF;
+            color: #FDFDFD;
             text-shadow: 1px 1px 4px black;
         }
 
