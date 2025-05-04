@@ -50,7 +50,7 @@ st.markdown("""
 
         h2, h3 {
             font-family: 'Open Sans', sans-serif;
-            color: #00ffee;
+            color: #FFFFFF;
         }
 
         .stSelectbox > div {
